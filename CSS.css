@@ -118,3 +118,14 @@ td
 {
     font-weight:bold;
     }
+.profile {
+    display:block; 
+    height: 5px;
+}
+.table, th, td{
+    border: 1px solid black;
+    padding: 8px 100px;
+}
+#Pic{
+    height: 250px;
+}
